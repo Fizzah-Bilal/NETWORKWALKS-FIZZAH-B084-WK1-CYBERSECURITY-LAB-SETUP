@@ -36,7 +36,7 @@ The lab will run on a private virtual network to keep testing separate from norm
 
 ## ARCHITECTURE:
 
-<img width="2558" height="1383" alt="image" src="https://github.com/user-attachments/assets/ac61e0e0-e3c3-43e5-93bf-f5f70495820a" />
+<img width="1283" height="801" alt="f1" src="https://github.com/user-attachments/assets/4ee3ce31-47e7-4c87-8008-cb72c86f1f40" />
 
 ---
 
@@ -44,9 +44,9 @@ The lab will run on a private virtual network to keep testing separate from norm
 
 |    Component       |   Configuration    |
 | ------------------ | ------------------ |
-|    Host OS         | Windows 11         |
-|    Host RAM        | 16 GB              |
-|    Processor       | Intel Core i5 12g  |
+|    Host OS         | Windows 10         |
+|    Host RAM        | 8 GB               |
+|    Processor       | Intel Core i5 4TH  |
 |    Hypervisor      | VirtualBox 7.2.20  |
 |    Security OS     | Kali Linux 2026.2  |
 |    Kali RAM        | 2048 MB            |
@@ -86,7 +86,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-<img width="2558" height="1385" alt="image" src="https://github.com/user-attachments/assets/146c4a1f-5367-482c-86f9-b51d1130c993" />
+<img width="1920" height="1040" alt="f3" src="https://github.com/user-attachments/assets/a13b4420-7a50-46b2-81bc-0e031e30c2e4" />
 
 
 A NAT Network was chosen so that multiple virtual machines connected to the same NAT Network can communicate with each other.
@@ -121,7 +121,7 @@ Gateway: 10.0.0.1
 DNS: 8.8.8.8
 ```
 
-<img width="826" height="628" alt="image" src="https://github.com/user-attachments/assets/3a1da3fd-b37c-462a-8637-ae248d105a4f" />
+<img width="707" height="557" alt="f2" src="https://github.com/user-attachments/assets/297533fa-1994-46e7-9b09-ce691ef09b56" />
 
 
 ## Step 6: VM Snapshot Creation
@@ -133,7 +133,7 @@ Snapshot name:
 KALI
 ```
 
-<img width="904" height="563" alt="image" src="https://github.com/user-attachments/assets/a1ab9c9f-f777-45fa-b2aa-e7df9d021820" />
+<img width="482" height="356" alt="f4" src="https://github.com/user-attachments/assets/350b4b79-9bc9-4f90-83ae-de96efb388ac" />
 
 
 ---
