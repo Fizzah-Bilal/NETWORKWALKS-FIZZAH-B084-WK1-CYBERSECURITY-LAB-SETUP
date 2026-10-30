@@ -133,7 +133,7 @@ Snapshot name:
 KALI
 ```
 
-<img width="482" height="356" alt="f4" src="https://github.com/user-attachments/assets/350b4b79-9bc9-4f90-83ae-de96efb388ac" />
+<img width="483" height="359" alt="f5" src="https://github.com/user-attachments/assets/65c7448a-bac4-49a4-8451-e09ddeb477fc" />
 
 
 ---
